@@ -1,0 +1,502 @@
+[
+  {
+    "createdAt": "2023-11-11T02:25:52.997Z",
+    "name": "Frami - Erdman",
+    "image": "https://source.unsplash.com/800x450/?restaurants",
+    "category": "Indian",
+    "rating": 1,
+    "price": "$",
+    "isOpen": false,
+    "id": "1"
+  },
+  {
+    "createdAt": "2023-11-10T18:12:56.704Z",
+    "name": "Koelpin, Lehner and Gottlieb",
+    "image": "https://source.unsplash.com/800x450/?restaurants",
+    "category": "Italian",
+    "rating": 4,
+    "price": "$$$$",
+    "isOpen": true,
+    "id": "2"
+  },
+  {
+    "createdAt": "2023-11-10T19:17:33.735Z",
+    "name": "Hills and Sons",
+    "image": "https://source.unsplash.com/800x450/?restaurants",
+    "category": "Chinese",
+    "rating": 2.5,
+    "price": "$$$",
+    "isOpen": true,
+    "id": "3"
+  },
+  {
+    "createdAt": "2023-11-11T02:11:06.584Z",
+    "name": "Anderson, Romaguera and Casper",
+    "image": "https://source.unsplash.com/800x450/?restaurants",
+    "category": "Asian",
+    "rating": 5,
+    "price": "$$$$",
+    "isOpen": true,
+    "id": "4"
+  },
+  {
+    "createdAt": "2023-11-11T09:16:39.466Z",
+    "name": "Dicki Inc",
+    "image": "https://source.unsplash.com/800x450/?restaurants",
+    "category": "Italian",
+    "rating": 3,
+    "price": "$$",
+    "isOpen": true,
+    "id": "5"
+  },
+  {
+    "createdAt": "2023-11-11T07:58:27.116Z",
+    "name": "Kreiger - Roob",
+    "image": "https://source.unsplash.com/800x450/?restaurants",
+    "category": "Italian",
+    "rating": 3.5,
+    "price": "$$",
+    "isOpen": false,
+    "id": "6"
+  },
+  {
+    "createdAt": "2023-11-10T20:53:29.757Z",
+    "name": "Collins, Runolfsson and Dare",
+    "image": "https://source.unsplash.com/800x450/?restaurants",
+    "category": "Indian",
+    "rating": 2.5,
+    "price": "$$$",
+    "isOpen": false,
+    "id": "7"
+  },
+  {
+    "createdAt": "2023-11-11T01:59:58.346Z",
+    "name": "Haley - McGlynn",
+    "image": "https://source.unsplash.com/800x450/?restaurants",
+    "category": "Asian",
+    "rating": 3,
+    "price": "$$$",
+    "isOpen": false,
+    "id": "8"
+  },
+  {
+    "createdAt": "2023-11-11T00:14:34.788Z",
+    "name": "Schimmel, Johnston and Macejkovic",
+    "image": "https://source.unsplash.com/800x450/?restaurants",
+    "category": "Chinese",
+    "rating": 1,
+    "price": "$",
+    "isOpen": false,
+    "id": "9"
+  },
+  {
+    "createdAt": "2023-11-11T08:34:07.501Z",
+    "name": "Mayer and Sons",
+    "image": "https://source.unsplash.com/800x450/?restaurants",
+    "category": "Indian",
+    "rating": 4.5,
+    "price": "$$",
+    "isOpen": true,
+    "id": "10"
+  },
+  {
+    "createdAt": "2023-11-11T08:58:57.026Z",
+    "name": "McDermott and Sons",
+    "image": "https://source.unsplash.com/800x450/?restaurants",
+    "category": "Asian",
+    "rating": 5,
+    "price": "$$",
+    "isOpen": false,
+    "id": "11"
+  },
+  {
+    "createdAt": "2023-11-10T17:53:14.721Z",
+    "name": "Feeney, Harvey and Armstrong",
+    "image": "https://source.unsplash.com/800x450/?restaurants",
+    "category": "Chinese",
+    "rating": 2.5,
+    "price": "$$$",
+    "isOpen": true,
+    "id": "12"
+  },
+  {
+    "createdAt": "2023-11-10T19:14:42.169Z",
+    "name": "Moen and Sons",
+    "image": "https://source.unsplash.com/800x450/?restaurants",
+    "category": "Italian",
+    "rating": 5,
+    "price": "$$$$",
+    "isOpen": false,
+    "id": "13"
+  },
+  {
+    "createdAt": "2023-11-11T06:56:59.847Z",
+    "name": "Bogisich, Schmidt and Macejkovic",
+    "image": "https://source.unsplash.com/800x450/?restaurants",
+    "category": "Italian",
+    "rating": 1,
+    "price": "$",
+    "isOpen": true,
+    "id": "14"
+  },
+  {
+    "createdAt": "2023-11-10T09:35:36.826Z",
+    "name": "Boehm - Homenick",
+    "image": "https://source.unsplash.com/800x450/?restaurants",
+    "category": "Chinese",
+    "rating": 4.5,
+    "price": "$$$$",
+    "isOpen": false,
+    "id": "15"
+  },
+  {
+    "createdAt": "2023-11-10T11:17:51.819Z",
+    "name": "Witting Group",
+    "image": "https://source.unsplash.com/800x450/?restaurants",
+    "category": "Chinese",
+    "rating": 1,
+    "price": "$",
+    "isOpen": true,
+    "id": "16"
+  },
+  {
+    "createdAt": "2023-11-10T11:07:56.576Z",
+    "name": "Bergnaum Group",
+    "image": "https://source.unsplash.com/800x450/?restaurants",
+    "category": "Italian",
+    "rating": 3.5,
+    "price": "$$$$",
+    "isOpen": true,
+    "id": "17"
+  },
+  {
+    "createdAt": "2023-11-11T09:18:00.102Z",
+    "name": "Brekke - Kassulke",
+    "image": "https://source.unsplash.com/800x450/?restaurants",
+    "category": "Chinese",
+    "rating": 3,
+    "price": "$$$$",
+    "isOpen": false,
+    "id": "18"
+  },
+  {
+    "createdAt": "2023-11-10T15:30:10.818Z",
+    "name": "Prince 1",
+    "image": "https://source.unsplash.com/800x450/?restaurants",
+    "category": "Italian",
+    "rating": 1,
+    "price": "$$",
+    "isOpen": true,
+    "id": "19"
+  },
+  {
+    "createdAt": "2023-11-10T13:55:55.136Z",
+    "name": "Wehner, Kreiger and Borer",
+    "image": "https://source.unsplash.com/800x450/?restaurants",
+    "category": "Italian",
+    "rating": 3,
+    "price": "$$$$",
+    "isOpen": true,
+    "id": "20"
+  },
+  {
+    "createdAt": "2023-11-10T23:41:08.906Z",
+    "name": "Beier, Windler and Jacobi",
+    "image": "https://source.unsplash.com/800x450/?restaurants",
+    "category": "Italian",
+    "rating": 3,
+    "price": "$$$$",
+    "isOpen": true,
+    "id": "21"
+  },
+  {
+    "createdAt": "2023-11-10T17:57:03.670Z",
+    "name": "Rodriguez - Bechtelar",
+    "image": "https://source.unsplash.com/800x450/?restaurants",
+    "category": "Chinese",
+    "rating": 4.5,
+    "price": "$$$$",
+    "isOpen": false,
+    "id": "22"
+  },
+  {
+    "createdAt": "2023-11-10T12:12:19.966Z",
+    "name": "Koelpin and Sons",
+    "image": "https://source.unsplash.com/800x450/?restaurants",
+    "category": "Italian",
+    "rating": 2.5,
+    "price": "$",
+    "isOpen": false,
+    "id": "23"
+  },
+  {
+    "createdAt": "2023-11-10T22:43:19.265Z",
+    "name": "Fisher - Bayer",
+    "image": "https://source.unsplash.com/800x450/?restaurants",
+    "category": "Italian",
+    "rating": 5,
+    "price": "$$$$",
+    "isOpen": false,
+    "id": "24"
+  },
+  {
+    "createdAt": "2023-11-10T18:53:02.610Z",
+    "name": "Waelchi and Sons",
+    "image": "https://source.unsplash.com/800x450/?restaurants",
+    "category": "Italian",
+    "rating": 3.5,
+    "price": "$$$",
+    "isOpen": true,
+    "id": "25"
+  },
+  {
+    "createdAt": "2023-11-10T14:59:14.367Z",
+    "name": "Jaskolski Group",
+    "image": "https://source.unsplash.com/800x450/?restaurants",
+    "category": "Chinese",
+    "rating": 1,
+    "price": "$$",
+    "isOpen": false,
+    "id": "26"
+  },
+  {
+    "createdAt": "2023-11-11T05:15:03.043Z",
+    "name": "Bogisich Inc",
+    "image": "https://source.unsplash.com/800x450/?restaurants",
+    "category": "Italian",
+    "rating": 4,
+    "price": "$$$",
+    "isOpen": false,
+    "id": "27"
+  },
+  {
+    "createdAt": "2023-11-11T02:45:07.800Z",
+    "name": "Kautzer and Sons",
+    "image": "https://source.unsplash.com/800x450/?restaurants",
+    "category": "Italian",
+    "rating": 5,
+    "price": "$",
+    "isOpen": true,
+    "id": "28"
+  },
+  {
+    "createdAt": "2023-11-10T17:10:04.580Z",
+    "name": "Anderson - Miller",
+    "image": "https://source.unsplash.com/800x450/?restaurants",
+    "category": "Indian",
+    "rating": 3,
+    "price": "$$$",
+    "isOpen": false,
+    "id": "29"
+  },
+  {
+    "createdAt": "2023-11-10T16:03:32.033Z",
+    "name": "Koepp - Erdman",
+    "image": "https://source.unsplash.com/800x450/?restaurants",
+    "category": "Italian",
+    "rating": 2,
+    "price": "$",
+    "isOpen": false,
+    "id": "30"
+  },
+  {
+    "createdAt": "2023-11-11T04:51:31.962Z",
+    "name": "Streich, Muller and Dietrich",
+    "image": "https://source.unsplash.com/800x450/?restaurants",
+    "category": "Italian",
+    "rating": 4.5,
+    "price": "$",
+    "isOpen": true,
+    "id": "31"
+  },
+  {
+    "createdAt": "2023-11-10T12:25:03.638Z",
+    "name": "D'Amore, Kreiger and Schinner",
+    "image": "https://source.unsplash.com/800x450/?restaurants",
+    "category": "Indian",
+    "rating": 3.5,
+    "price": "$$$",
+    "isOpen": true,
+    "id": "32"
+  },
+  {
+    "createdAt": "2023-11-11T04:31:06.024Z",
+    "name": "Wehner - Dickens",
+    "image": "https://source.unsplash.com/800x450/?restaurants",
+    "category": "Italian",
+    "rating": 2,
+    "price": "$$$",
+    "isOpen": true,
+    "id": "33"
+  },
+  {
+    "createdAt": "2023-11-11T04:39:28.055Z",
+    "name": "Lesch Inc",
+    "image": "https://source.unsplash.com/800x450/?restaurants",
+    "category": "Italian",
+    "rating": 4,
+    "price": "$$$",
+    "isOpen": true,
+    "id": "34"
+  },
+  {
+    "createdAt": "2023-11-10T14:21:57.877Z",
+    "name": "Kshlerin - Kerluke",
+    "image": "https://source.unsplash.com/800x450/?restaurants",
+    "category": "Indian",
+    "rating": 5,
+    "price": "$$",
+    "isOpen": true,
+    "id": "35"
+  },
+  {
+    "createdAt": "2023-11-11T00:27:38.848Z",
+    "name": "Dooley Group",
+    "image": "https://source.unsplash.com/800x450/?restaurants",
+    "category": "Indian",
+    "rating": 2.5,
+    "price": "$$",
+    "isOpen": true,
+    "id": "36"
+  },
+  {
+    "createdAt": "2023-11-10T15:14:30.212Z",
+    "name": "Maggio - Pouros",
+    "image": "https://source.unsplash.com/800x450/?restaurants",
+    "category": "Italian",
+    "rating": 4,
+    "price": "$",
+    "isOpen": true,
+    "id": "37"
+  },
+  {
+    "createdAt": "2023-11-10T14:19:58.015Z",
+    "name": "Connelly Inc",
+    "image": "https://source.unsplash.com/800x450/?restaurants",
+    "category": "Indian",
+    "rating": 4.5,
+    "price": "$",
+    "isOpen": false,
+    "id": "38"
+  },
+  {
+    "createdAt": "2023-11-10T12:23:12.533Z",
+    "name": "Howe Inc",
+    "image": "https://source.unsplash.com/800x450/?restaurants",
+    "category": "Asian",
+    "rating": 2,
+    "price": "$$",
+    "isOpen": false,
+    "id": "39"
+  },
+  {
+    "createdAt": "2023-11-10T19:06:53.727Z",
+    "name": "King - Douglas",
+    "image": "https://source.unsplash.com/800x450/?restaurants",
+    "category": "Asian",
+    "rating": 1,
+    "price": "$$",
+    "isOpen": true,
+    "id": "40"
+  },
+  {
+    "createdAt": "2023-11-10T19:48:58.361Z",
+    "name": "Greenholt - Torphy",
+    "image": "https://source.unsplash.com/800x450/?restaurants",
+    "category": "Italian",
+    "rating": 2,
+    "price": "$$$",
+    "isOpen": true,
+    "id": "41"
+  },
+  {
+    "createdAt": "2023-11-10T18:40:23.981Z",
+    "name": "King Inc",
+    "image": "https://source.unsplash.com/800x450/?restaurants",
+    "category": "Asian",
+    "rating": 2,
+    "price": "$$",
+    "isOpen": true,
+    "id": "42"
+  },
+  {
+    "createdAt": "2023-11-10T19:10:46.003Z",
+    "name": "Dietrich, Willms and Volkman",
+    "image": "https://source.unsplash.com/800x450/?restaurants",
+    "category": "Italian",
+    "rating": 5,
+    "price": "$$$$",
+    "isOpen": true,
+    "id": "43"
+  },
+  {
+    "createdAt": "2023-11-10T14:02:26.096Z",
+    "name": "Feil - Runte",
+    "image": "https://source.unsplash.com/800x450/?restaurants",
+    "category": "Asian",
+    "rating": 4.5,
+    "price": "$$$",
+    "isOpen": false,
+    "id": "44"
+  },
+  {
+    "createdAt": "2023-11-11T06:30:21.711Z",
+    "name": "Bradtke, Kautzer and Powlowski",
+    "image": "https://source.unsplash.com/800x450/?restaurants",
+    "category": "Italian",
+    "rating": 3.5,
+    "price": "$$$$",
+    "isOpen": false,
+    "id": "45"
+  },
+  {
+    "createdAt": "2023-11-11T08:42:14.759Z",
+    "name": "Raynor Group",
+    "image": "https://source.unsplash.com/800x450/?restaurants",
+    "category": "Asian",
+    "rating": 5,
+    "price": "$",
+    "isOpen": true,
+    "id": "46"
+  },
+  {
+    "createdAt": "2023-11-10T21:07:23.532Z",
+    "name": "Heathcote LLC",
+    "image": "https://source.unsplash.com/800x450/?restaurants",
+    "category": "Italian",
+    "rating": 5,
+    "price": "$$",
+    "isOpen": true,
+    "id": "47"
+  },
+  {
+    "createdAt": "2023-11-11T07:41:34.395Z",
+    "name": "Bergstrom - Thompson",
+    "image": "https://source.unsplash.com/800x450/?restaurants",
+    "category": "Asian",
+    "rating": 3,
+    "price": "$$$",
+    "isOpen": false,
+    "id": "48"
+  },
+  {
+    "createdAt": "2023-11-11T05:18:40.186Z",
+    "name": "Rodriguez and Sons",
+    "image": "https://source.unsplash.com/800x450/?restaurants",
+    "category": "Italian",
+    "rating": 4,
+    "price": "$$$",
+    "isOpen": false,
+    "id": "49"
+  },
+  {
+    "createdAt": "2023-11-10T11:56:52.647Z",
+    "name": "Harris and Sons",
+    "image": "https://source.unsplash.com/800x450/?restaurants",
+    "category": "Asian",
+    "rating": 3.5,
+    "price": "$",
+    "isOpen": true,
+    "id": "50"
+  }
+]
